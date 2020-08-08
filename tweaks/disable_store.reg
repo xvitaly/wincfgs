@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsStore]
+"RemoveWindowsStore"=dword:00000001
+"DisableStoreApps"=dword:00000000
+"DisableOSUpgrade"=dword:00000001
+"AutoDownload"=dword:00000002
