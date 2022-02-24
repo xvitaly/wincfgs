@@ -7,8 +7,11 @@ Collection of useful configs, scripts and tweaks for Microsoft Windows VMs.
 Available scripts:
 
   * `clean_updates.cmd` - remove all installed outdated and no longer needed Microsoft Windows updates from WinSxS directory;
+  * `clean_wrea.cmd` - remove all files and directories from $WinREAgent directory;
+  * `edge_uninstall.cmd` - completely uninstall Microsoft Edge (Chromium version) browser;
   * `ngen_run.cmd` - force NGEN to rebuild all Microsoft .NET Framework caches and native machine images;
-  * `onedrive_uninstall.cmd` - silently uninstall pre-installed Microsoft OneDrive client.
+  * `onedrive_uninstall.cmd` - silently uninstall pre-installed Microsoft OneDrive client;
+  * `run_trim.cmd` - force running TRIM on the system drive.
 
 # Tweaks
 
