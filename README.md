@@ -21,7 +21,11 @@ Available registry tweaks:
   * `disable_gamebar.reg` - disable game bar and overlay in fullscreen applications;
   * `disable_mitigations.reg` - disable all CPU kernel mitigations;
   * `disable_shares.reg` - disable default administrative shares;
+  * `disable_start_suggestions.reg` - disable Start menu suggestions;
+  * `disable_store.reg` - disable Windows Store;
   * `disable_suggested.reg` - disable installation of suggested applications;
+  * `disable_w11_check.reg` - disable automatic installation of the PC Health Check application;
+  * `disable_w11_upgrade.reg` - pin Windows 10 to specified branch and disable upgrading to the Windows 11;
   * `enable_mitigations.reg` - enable previously disabled CPU kernel mitigations;
   * `kb_switch.reg` - speed-up keyboard layout switch;
   * `remove_onedrive.reg` - remove pinned Microsoft OneDrive icon from Windows Explorer;
