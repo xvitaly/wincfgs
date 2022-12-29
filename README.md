@@ -25,6 +25,7 @@ Available registry tweaks:
   * [disable_store.reg](tweaks/disable_store.reg) - disable Windows Store;
   * [disable_suggested.reg](tweaks/disable_suggested.reg) - disable installation of suggested applications;
   * [disable_svi_flash.reg](tweaks/disable_svi_flash.reg) - disable System Volume Information directories creation on removable drives;
+  * [disable_vs_telemetry.reg](tweaks/disable_vs_telemetry.reg) - disable Microsoft Visual Studio telemetry;
   * [disable_w11_check.reg](tweaks/disable_w11_check.reg) - disable automatic installation of the PC Health Check application;
   * [disable_w11_upgrade.reg](tweaks/disable_w11_upgrade.reg) - pin Windows 10 to specified branch and disable upgrading to the Windows 11;
   * [enable_mitigations.reg](tweaks/enable_mitigations.reg) - enable previously disabled CPU kernel mitigations;
