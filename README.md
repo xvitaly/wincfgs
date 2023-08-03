@@ -9,6 +9,7 @@ Available scripts:
   * [clean_updates.cmd](scripts/clean_updates.cmd) - remove all installed outdated and no longer needed Microsoft Windows updates from WinSxS directory;
   * [clean_wrea.cmd](scripts/clean_wrea.cmd) - remove all files and directories from $WinREAgent directory;
   * [edge_uninstall.cmd](scripts/edge_uninstall.cmd) - completely uninstall Microsoft Edge (Chromium version) browser;
+  * [edgeview_uninstall.cmd](scripts/edgeview_uninstall.cmd) - uninstall Microsoft Edge Web View (some applications require it and will stop working once uninstalled);
   * [ngen_run.cmd](scripts/ngen_run.cmd) - force NGEN to rebuild all Microsoft .NET Framework caches and native machine images;
   * [onedrive_uninstall.cmd](scripts/onedrive_uninstall.cmd) - silently uninstall pre-installed Microsoft OneDrive client;
   * [run_trim.cmd](scripts/run_trim.cmd) - force running TRIM on the system drive.
