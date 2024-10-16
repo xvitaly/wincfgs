@@ -12,6 +12,7 @@ Available scripts:
   * [edgeview_uninstall.cmd](scripts/edgeview_uninstall.cmd) - uninstall Microsoft Edge Web View (some applications require it and will stop working once uninstalled);
   * [ngen_run.cmd](scripts/ngen_run.cmd) - force NGEN to rebuild all Microsoft .NET Framework caches and native machine images;
   * [onedrive_uninstall.cmd](scripts/onedrive_uninstall.cmd) - silently uninstall pre-installed Microsoft OneDrive client;
+  * [recall_uninstall.cmd](scripts/recall_uninstall.cmd) - completely uninstall Recall feature;
   * [run_trim.cmd](scripts/run_trim.cmd) - force running TRIM on the system drive.
 
 # Tweaks
