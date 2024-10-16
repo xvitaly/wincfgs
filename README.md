@@ -20,6 +20,7 @@ Available scripts:
 Available registry tweaks:
 
   * [classic_console.reg](tweaks/classic_console.reg) - restore classic colors for Microsoft Windows 10 terminal window;
+  * [disable_ai_features.reg](tweaks/disable_ai_features.reg) - disable AI powered features (Recall, etc);
   * [disable_gamebar.reg](tweaks/disable_gamebar.reg) - disable game bar and overlay in fullscreen applications;
   * [disable_mitigations.reg](tweaks/disable_mitigations.reg) - disable all CPU kernel mitigations;
   * [disable_onedrive_move.reg](tweaks/disable_onedrive_move.reg) - disable moving user folders to OneDrive;
